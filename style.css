@@ -1,0 +1,39 @@
+body{
+    background-color: #FF0060;
+}
+.heading {
+    background-color: #F2BE22;
+    height: 70vh;
+    text-align: center;
+}
+h1{
+    padding-top: 10%;
+    color: #ffff;
+}
+.fa-face-smile{
+    margin: 0;
+    padding: 2%;
+    font-size: 70px;
+    color: grey;
+    transform: rotate(-90deg);
+}
+.footer{
+    text-align: center;
+}
+.fa-play{
+   font-size: 200px;
+    transform: rotate(90deg);
+    color: #F2BE22;
+    padding-right: 18%;
+    /* color: white; */
+}
+@media screen and (min-width: 2560px) {
+    .fa-play{
+       padding-right:10% ;
+    }
+}
+
+
+
+
+
